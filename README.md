@@ -6,19 +6,19 @@ Best User Bot To Manage Your Telegram Account 😉
 ## By Team IndianBot 
 
 For any query or want to know how it works join
-## https://t.me/IndianBot_Official
+## https://t.me/Anonymous13
 
 ## FORK AT YOUR OWN RISK
 ### Installing
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rachit1313/Rc13gamruserbot)
 
 ### The Normal Way
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/indianbhaiya/IndianBot
+git clone https://github.com/Rachit1313/Rc13gamruserbot
 cd Indianbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
