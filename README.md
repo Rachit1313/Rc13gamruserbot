@@ -15,7 +15,7 @@ For any query or want to know how it works join
 ### Installing
 
 ### The Easy Way
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/indianbhaiya/IndianBot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/Rachit1313/IndianBot)
 
 ### The Normal Way
 
