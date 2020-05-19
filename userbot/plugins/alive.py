@@ -19,5 +19,5 @@ async def amireallyalive(alive):
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n`"
                      "**Bot Creator:** [Rc13gamr](t.me/anonymous13)\n"
                      "**Co-Owner:** [Thug Life](t.me/thuglife3113)\n\n"
-                     "     [Deploy This Bot](https://github.com/Rachit1313/Rc13gamruserbot) "
+                     "     [Deploy This Bot](https://github.com/indianbhaiya/IndianBot)") 
 
