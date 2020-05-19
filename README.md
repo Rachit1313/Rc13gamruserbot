@@ -1,12 +1,8 @@
-# IndianBot The UserBot
-
-<p align="center">
-<img src="logo.jpg" alt="indian Bot">
-
+# The UserBot
 Best User Bot To Manage Your Telegram Account 😉
 ## Most PowerFul And Better And Secure !
 
-## By Team IndianBot 
+## By Anonymous 
 
 For any query or want to know how it works join
 ## https://t.me/Anonymous13
