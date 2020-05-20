@@ -6,6 +6,8 @@ Available Commands:
 
 from telethon import events
 
+from userbot import ALIVE_NAME
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba"
 import asyncio
 
 from uniborg.util import admin_cmd
@@ -47,7 +49,7 @@ async def _(event):
             "**(8) Change Chat Info: ☑️**",
             "**(8) Change Chat Info: ✅**",
             "**Permission Granted Successfully**",
-            "**pRoMooTeD SuCcEsSfUlLy bY Tera Baap**"
+            "**pRoMooTeD SuCcEsSfUlLy bY**{DEFAULTUSER}"
 
  ]
 
