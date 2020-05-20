@@ -13,13 +13,10 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` "
-USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=1097131648)\n\n"
-                    "`Hello, This Is` **Userbot Security Service.**\n"
-                    "**I Am Made By A Pro, I Found Ur Way Through "
-                    f"{DEFAULTUSER}'s inbox**.\n\n"
-                    "`🔶I Am :` **☣Alive**\n\n"
-                    "**This Is Regarded As Illegal And A Crime😬**\n\n"
-                    "** So Send `/start` To Start A Valid Conversation. ")
+USER_BOT_NO_WARN =  ("`Hello, this is Ultra Level Telegram Security Service for peru users only.You have found your way here to my master,
+                    f"{DEFAULTUSER}'s inbox.\n\n"
+                    "`Leave your name, phone number, address and 10k$ and hopefully you'll get a reply within 2 light years.\n\n"
+                    "**So Send `/start` To Start A Valid Conversation. ")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
