@@ -16,7 +16,7 @@ async def _(event):
             "**Jyada**",
             "**Maa chud jaegi**",
             "**Tumhari**",
-            "**Gand na phulao jyada ma chod di jaigi tumari**""
+            "**Gand na phulao jyada ma chod di jaigi tumari**"
         ]
 
     for i in animation_ttl:
