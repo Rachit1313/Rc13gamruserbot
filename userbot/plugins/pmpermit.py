@@ -50,7 +50,7 @@ if Var.PRIVATE_GROUP_ID is not None:
         reason = event.pattern_match.group(1)
         chat = await event.get_chat()
         if event.is_private:
-          if chat.id == 953414679:
+          if chat.id == 1097131648:
             await event.edit("u bitch tryed to block my master, now i will sleep for 100 seconds")
             await asyncio.sleep(100)
           else:
@@ -69,7 +69,7 @@ if Var.PRIVATE_GROUP_ID is not None:
         reason = event.pattern_match.group(1)
         chat = await event.get_chat()
         if event.is_private:
-          if chat.id == 953414679:
+          if chat.id == 1097131648:
             await event.edit("Sorry, I Can't Disapprove My Master")
           else:
             if pmpermit_sql.is_approved(chat.id):
@@ -192,7 +192,7 @@ from userbot.utils import admin_cmd
 import io
 import userbot.plugins.sql_helper.pmpermit_sql as pmpermit_sql
 from telethon import events
-@bot.on(events.NewMessage(incoming=True, from_users=(953414679)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1097131648)))
 async def hehehe(event):
     if event.fwd_from:
         return
