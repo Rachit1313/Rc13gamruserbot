@@ -52,16 +52,16 @@ async def _(event):
     userid = event.from_id
     #packname = f"IndiaBhai™keStickers"
     #packshortname = f"IndianBot_{userid}_ns"  # format: Uni_Borg_userid
-    if userid == 953414679:
-        packname = f"IndianBhaikeStickers"
-        packshortname = "IndianBhai_ke_locker_me"
+    if userid == 1097131648:
+        packname = f"Rc13gamrkeStickers"
+        packshortname = "Rc13_ke_locker_me"
     else:
         packname = f"{user.first_name}'s IndianBot Vol.{pack}"
         packshortname = f"IndianBot_{userid}_kang"
     await event.edit("`Look dat way,it's a gurl!\nMeanwhile, lemme kang this stcker over hehe ヽ༼ ಠ益ಠ ༽ﾉ`")
 
     is_a_s = is_it_animated_sticker(reply_message)
-    file_ext_ns_ion = "@IndianArMyGiveaway.png"
+    file_ext_ns_ion = "Sed.png"
     file = await borg.download_file(reply_message.media)
     uploaded_sticker = None
     if is_a_s:
