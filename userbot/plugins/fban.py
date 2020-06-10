@@ -15,7 +15,7 @@ async def _(event):
     if event.fwd_from:
 
         return
-    await borg.send_message("/start")
+    await borg.send_message("**/start**")
     await asyncio.sleep(2)
     await borg.send_message("/joinfed 45105c24-6626-41c2-8f16-516de3c12322")
     await asyncio.sleep(2)
