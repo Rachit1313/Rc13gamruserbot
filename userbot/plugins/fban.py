@@ -4,11 +4,6 @@ import asyncio
 from uniborg.util import admin_cmd
 from userbot import FBAN_USER, FBAN_REASON
 
-USER = str(FBAN_USER) if FBAN_USER else
-    return
-REASON = str(FBAN_REASON) if FBAN_REASON else "no reason given"
-
-
 @borg.on(admin_cmd(pattern=r"fban"))
 replied_user = await event.client(GetFullUserRequest(reply_message.from_id))
         firstname = replied_user.user.first_name
