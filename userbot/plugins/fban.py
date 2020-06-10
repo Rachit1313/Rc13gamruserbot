@@ -4,8 +4,7 @@ import asyncio
 from uniborg.util import admin_cmd
 from userbot import FBAN_USER, FBAN_REASON
 
-USER = str(FBAN_USER) if FBAN_USER else
-    return
+USER = str(FBAN_USER) if FBAN_USER else "can't fban"
 REASON = str(FBAN_REASON) if FBAN_REASON else "no reason given"
 
 
