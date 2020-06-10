@@ -4,7 +4,6 @@ import asyncio
 from uniborg.util import admin_cmd
 
 @borg.on(admin_cmd(pattern=r"fban"))
-reply_message = None
     if event.reply_to_msg_id:
 replied_user = await event.client(GetFullUserRequest(reply_message.from_id))
         firstname = replied_user.user.first_name
