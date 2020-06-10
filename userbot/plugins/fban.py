@@ -2,9 +2,10 @@ from telethon import events
 import io
 import asyncio
 from uniborg.util import admin_cmd
-from userbot import FBAN_USER, FBAN_REASON
 
 @borg.on(admin_cmd(pattern=r"fban"))
+reply_message = None
+    if event.reply_to_msg_id:
 replied_user = await event.client(GetFullUserRequest(reply_message.from_id))
         firstname = replied_user.user.first_name
         usname = replied_user.user.username
