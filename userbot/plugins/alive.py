@@ -16,5 +16,5 @@ async def amireallyalive(alive):
                      f"`My peru owner`: {DEFAULTUSER}\n\n"
                      "`Telethon version:` **6.0.9**\n`Python:` **3.7.4**\n"
                      "`Database Status:` **😀ALL OK**\n\n`Always with you, my master!\n\n`"
-                     "     [Deploy This Bot](https://github.com/Rachit1313/Rc13gamruserbot)") 
+                     "     [Deploy This Bot](https://github.com/indianbhaiya/Indianbot)") 
 
